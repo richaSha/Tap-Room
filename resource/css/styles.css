@@ -1,0 +1,36 @@
+.menu span {
+    color: #802f2f;
+    width: 15rem;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.5rem;
+    height: 3rem;
+}
+.menu span p, .menu span i{
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  display: inline-flex;
+}
+.menuTitle span{
+  font-weight: bold;
+  font-size: 2rem !important;
+}
+.brand{
+  width: 25rem !important;
+}
+.checked{
+  background: url(./../../resource/images/checked.png);
+}
+.unChecked{
+  background: url(./../../resource/images/unchecked.png);
+}
+.pints{
+  background: url(./../../resource/images/pints.png);
+}
+.menu span i{
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
